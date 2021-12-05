@@ -15,5 +15,4 @@ Discord is a VoIP, instant messaging and digital distribution platform. Users co
 
 ## Deployment
 
-You can deploy this repo to heroku. If you really want to deploy it you know how.<br>
-I am just too lazy to setup the button. :)<br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)<br>
